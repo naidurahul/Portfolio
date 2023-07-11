@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hello{
+  width: 50%;
+  object-fit: cover;
+  border-radius: 11rem;
+  margin-left: auto;
+}
